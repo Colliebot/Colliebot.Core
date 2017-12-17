@@ -1,6 +1,6 @@
 ﻿namespace Colliebot
 {
-    public enum AvatarFrom
+    public enum IconFrom
     {
         None,
         Discord,
