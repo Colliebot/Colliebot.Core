@@ -1,0 +1,21 @@
+{
+  "api": {
+    "resturl": null,
+    "wsurl": null
+  },
+  "postgres": {
+    "server": "localhost",
+    "port": 5432,
+    "user": null,
+    "password": null
+  },
+  "discord": {
+    "token": null
+  },
+  "github": {
+    "token": null
+  },
+  "twitch": {
+    "token": null
+  }
+}
